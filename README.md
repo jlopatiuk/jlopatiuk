@@ -18,8 +18,6 @@ sou estudante de programação explorando várias áreas, como desenvolvimento w
 ### Sociais
 
 <p align="esquerda"> <a href="https://www.github.com/Arthur JLOPATIUK" target="_blank" rel="noreferrer"> <foto> <source media="(prefere-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefere-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </foto> </a> <a href="https://discord.com/users/jlopatiukkkkk_22748" target="_blank" rel="noreferrer"> <foto> <source media="(prefere-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefere-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </foto> </a></p>
-### Insígnias
 
-<b>Minhas Estatísticas do GitHub</b>
 
-<a href="http://www.github.com/Arthur JLOPATIUK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Arthur JLOPATIUK&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_ border=true" /></a>
+
